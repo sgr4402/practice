@@ -1,1 +1,1 @@
-Hi These is the new text file in hotfix branch
+Hi These is the new text file in hotfix branch.
